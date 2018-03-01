@@ -25,4 +25,4 @@ Radix Sort
 
 Bogo Sort
 
-The algorithms are held in a subclass, adding algorithms can be done easily by just creating a new method in the sub class
+The algorithms are held in a subclass, adding algorithms can be done simply by creating a new method in the sub class
