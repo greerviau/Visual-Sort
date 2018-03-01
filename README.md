@@ -1,2 +1,28 @@
 # Visual-Sort
-This program visually represents the process undergone by different sorting algorithms
+This program supports the following algorithms :
+
+Selection Sort
+
+Bubble Sort
+
+Coctail Sort
+
+Odd Even Sort
+
+Insertion Sort
+
+Tim Sort (unfinished)
+
+Quick Sort
+
+Heap Sort
+
+Merge Sort
+
+Pigeonhole Sort
+
+Radix Sort
+
+Bogo Sort
+
+The algorithms are held in a subclass, adding algorithms can be done easily by just creating a new method in the sub class
