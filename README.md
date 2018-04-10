@@ -29,3 +29,6 @@ The algorithms are held in a subclass, adding algorithms can be done simply by c
 
 
 ![visualsort1](https://user-images.githubusercontent.com/36581610/38583266-791dbaf2-3ce0-11e8-8b76-b27f30c56202.PNG)
+
+![visualsort2](https://user-images.githubusercontent.com/36581610/38583301-913923ce-3ce0-11e8-968b-6712a9d60c2a.PNG)
+
