@@ -43,7 +43,7 @@ public class VisualSorting {
 	private String[] types = {"Bar Graph", "Dot Plot"};
 	private String[] algorithms = {"Selection Sort", 
 								   "Bubble Sort",
-								   "Coctail Sort",
+								   "Cocktail Sort",
 								   "Odd Even Sort", 
 								   "Insertion Sort", 
 								   "Tim Sort", 
@@ -304,7 +304,7 @@ public class VisualSorting {
 						algorithm.bubbleSort();
 						break;
 					case 2:
-						algorithm.coctailSort();
+						algorithm.cocktailSort();
 						break;
 					case 3:
 						algorithm.oddEvenSort();
@@ -509,7 +509,7 @@ public class VisualSorting {
 			}
 		}
 		
-		public void coctailSort() {
+		public void cocktailSort() {
 			boolean noswaps = false;
 			int c = 0;
 			while(!noswaps && sorting) {
