@@ -59,7 +59,7 @@ public class VisualSorting {
 								"Best Case: O(n)\nWorst Case: O(n^2)\nAverage: O(n^2)",
 								"Best Case: O(n)\nWorst Case: O(n^2)\nAverage: O(n^2)",
 								"Best Case: O(n)\nWorst Case: O(nlogn)\nAverage: O(nlogn)",
-								"Best Case: O(nlogn)\nWorst Case: O(nlogn)\nAverage: O(n^2)",
+								"Best Case: O(nlogn)\nWorst Case: O(n^2)\nAverage: O(nlogn)",
 								"Best Case: O(nlogn)\nWorst Case: O(nlogn)\nAverage: O(nlogn)",
 								"Best Case: O(nlogn)\nWorst Case: O(nlogn)\nAverage: O(nlogn)",
 								"Best Case: --\nWorst Case: O(n+2^k)\nAverage: O(n+2^k))",
