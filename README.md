@@ -1,4 +1,4 @@
-# Visual-Sort
+# Visual Sort
 
 
 ## Supported Algorithms
