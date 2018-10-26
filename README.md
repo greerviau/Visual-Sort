@@ -19,9 +19,8 @@
 ## Program Structure
 The algorithms are held in a subclass, adding algorithms can be done simply by creating a new method in the sub class
 
+![selection](https://user-images.githubusercontent.com/36581610/47539636-55760e00-d89f-11e8-9b4b-7d6c81605784.gif)
 
-![visualsort1](https://user-images.githubusercontent.com/36581610/38583266-791dbaf2-3ce0-11e8-8b76-b27f30c56202.PNG)
+![quick](https://user-images.githubusercontent.com/36581610/47539640-5ad35880-d89f-11e8-87fe-99c88ae85805.gif)
 
-![visualsort2](https://user-images.githubusercontent.com/36581610/38583564-6b6f57c0-3ce1-11e8-9872-e86f329d74f2.PNG)
-
-
+![merge](https://user-images.githubusercontent.com/36581610/47539648-6161d000-d89f-11e8-9579-46d6e5ec42aa.gif)
