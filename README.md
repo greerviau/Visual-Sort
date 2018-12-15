@@ -21,8 +21,8 @@ This program provides a visual demonstration of the process undrgone by differen
 ## Program Structure
 The algorithms are held in a subclass, adding algorithms can be done simply by creating a new method in the sub class
 
-![selection](https://user-images.githubusercontent.com/36581610/47539636-55760e00-d89f-11e8-9b4b-7d6c81605784.gif)
+![selection](https://user-images.githubusercontent.com/36581610/50039444-c1076c80-0000-11e9-8d39-0bbdafa8c048.gif)
 
-![quick](https://user-images.githubusercontent.com/36581610/47539640-5ad35880-d89f-11e8-87fe-99c88ae85805.gif)
+![quick](https://user-images.githubusercontent.com/36581610/50039446-c6fd4d80-0000-11e9-9ff7-1dff0a75cf46.gif)
 
-![merge](https://user-images.githubusercontent.com/36581610/47539648-6161d000-d89f-11e8-9579-46d6e5ec42aa.gif)
+![merge](https://user-images.githubusercontent.com/36581610/50039448-cd8bc500-0000-11e9-913c-34883d2462e0.gif)
