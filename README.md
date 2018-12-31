@@ -18,9 +18,6 @@ This program provides a visual demonstration of the process undrgone by differen
 * Radix Sort
 * Bogo Sort
 
-## Program Structure
-The algorithms are held in a subclass, adding algorithms can be done simply by creating a new method in the sub class
-
 ![selection](https://user-images.githubusercontent.com/36581610/50039444-c1076c80-0000-11e9-8d39-0bbdafa8c048.gif)
 
 ![quick](https://user-images.githubusercontent.com/36581610/50039446-c6fd4d80-0000-11e9-9ff7-1dff0a75cf46.gif)
